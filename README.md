@@ -1,70 +1,105 @@
 # Hi 👋, I'm Avinash Mutum
 
-### Backend & AI Developer | ECE Student @ NIT Manipur
-
-I am passionate about building scalable backend systems and AI-powered applications.
-
-- 🎓 B.Tech in Electronics and Communication Engineering at NIT Manipur
-- 💻 Backend Developer (Node.js & Express.js)
-- 🤖 Learning AI Agents, LangChain, LangGraph, RAG & MCP
-- 🌱 Currently improving DSA in C++
-- 🎯 Goal: Become a Software Engineer at a top product company
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;AI+Developer;Node.js+%7C+Express.js;LangChain+%7C+LangGraph;RAG+%7C+MCP;Always+Learning+New+Things" />
+</p>
 
 ---
 
-## 🚀 Tech Stack
+## 👨‍💻 About Me
 
-### Languages
-- JavaScript
-- C++
-- HTML
-- CSS
+🎓 B.Tech in Electronics & Communication Engineering @ **NIT Manipur**
 
-### Backend
-- Node.js
-- Express.js
-- REST API
+💻 Passionate about Backend Development and AI Engineering.
 
-### Database
-- MongoDB
-- Mongoose
+🤖 Currently learning
 
-### AI
 - LangChain
 - LangGraph
-- Google Gemini API
 - RAG
-- Vector Database
 - MCP
+- System Design
+- DSA in C++
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
+🎯 Goal
+
+Become a Software Engineer at a top product company.
 
 ---
 
-## 🌟 Featured Projects
+# 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,cpp,git,github,vscode,postman,html,css" />
+
+</p>
+
+---
+
+# 🤖 AI Stack
+
+- LangChain
+- LangGraph
+- Google Gemini
+- RAG
+- MCP
+- Vector Database
+
+---
+
+# 🚀 Featured Projects
 
 ### 🔹 SafeSight AI
-AI-powered eye clinic management system.
+
+AI-powered Eye Clinic Management System
 
 ### 🔹 Restaurant AI Agent
-Restaurant assistant built using LangChain and Gemini.
 
-### 🔹 E-commerce API
-RESTful backend API with authentication and MongoDB.
+Restaurant AI Agent built using LangChain + Gemini
+
+### 🔹 E-Commerce API
+
+REST API with JWT Authentication & MongoDB
 
 ### 🔹 Contact API
-Backend contact management REST API.
+
+RESTful Contact Management API
 
 ---
 
-## 📫 Connect With Me
+# 📊 GitHub Stats
 
-- GitHub: https://github.com/avinashmutum2615-ship-it
-- LinkedIn: https://www.linkedin.com/in/avinash-mutum-0b6383320/
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=avinashmutum2615-ship-it&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashmutum2615-ship-it&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=avinashmutum2615-ship-it&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+📧 avinashmutum2615@gmail.com
+
+💼 LinkedIn
+(Add your LinkedIn URL)
+
+🌐 GitHub
+
+https://github.com/avinashmutum2615-ship-it
 
 ---
 
