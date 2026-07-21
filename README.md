@@ -95,7 +95,7 @@ RESTful Contact Management API
 📧 avinashmutum2615@gmail.com
 
 💼 LinkedIn
-(Add your LinkedIn URL)
+https://www.linkedin.com/in/avinash-mutum-0b6383320/
 
 🌐 GitHub
 
